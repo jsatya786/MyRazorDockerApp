@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRazorDockerApp", "MyRazorDockerApp.csproj", "{AA54D441-4001-460B-91CE-37DD31C516B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA54D441-4001-460B-91CE-37DD31C516B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA54D441-4001-460B-91CE-37DD31C516B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA54D441-4001-460B-91CE-37DD31C516B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA54D441-4001-460B-91CE-37DD31C516B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9585C89-70FE-4304-BE85-356D19975A2E}
+	EndGlobalSection
+EndGlobal
