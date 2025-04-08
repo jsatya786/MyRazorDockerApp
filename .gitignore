@@ -1,0 +1,18 @@
+# Ignore build output
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+
+# Visual Studio settings
+.vscode/
+.vs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker stuff (optional)
+*.tar
